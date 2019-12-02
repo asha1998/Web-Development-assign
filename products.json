@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "HOT PINK COCKTAIL DRESS",
+        "price": 29.95,
+        "instock": 5,
+        "image": { "fields": { "file": { "url": "imgs/product-5.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "YELLOW DROPOFF SHOULDER SEXY CROPTOP",
+        "price": 7.75,
+        "instock": 16,
+        "image": { "fields": { "file": { "url": "imgs/product-17.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "SEXY BIKER SHORTS",
+        "price": 7.99,
+        "instock": 19,
+        "image": { "fields": { "file": { "url": "imgs/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "GOLD HEARTBEAT NECKLACE",
+        "price": 2.99,
+        "instock": 20,
+        "image": { "fields": { "file": { "url": "imgs/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "ISLAND PATTERN CROPTOP",
+        "price": 9.99,
+        "instock":9,
+        "image": { "fields": { "file": { "url": "imgs/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "SEXY LEOPARD PRINT TWO PIECE BIKER SET",
+        "price": 12.99,
+        "instock": 10,
+        "image": { "fields": { "file": { "url": "imgs/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "SEXY SHORT PARTY DRESS",
+        "price": 15.75,
+        "instock":5,
+        "image": { "fields": { "file": { "url": "imgs/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "FANY PACK PARTY BAG",
+        "price": 5.50,
+        "instock": 18,
+        "image": { "fields": { "file": { "url": "imgs/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "SEXY SHORT FLORAL TWO PIECE PARTY SET",
+        "price": 16.30,
+        "instock": 4,
+        "image": { "fields": { "file": { "url": "imgs/product-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "SEXY YELLOW BODYCON DRESS",
+        "price": 21.75,
+        "instock": 3,
+        "image": { "fields": { "file": { "url": "imgs/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "SEXY BLUE BODYCON PARTY DRESS",
+        "price": 18.75,
+        "instock": 2,
+        "image": { "fields": { "file": { "url": "imgs/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "SEXY TWO PIECE BLACK AND WHITE PARTY SET",
+        "price": 16.75,
+        "instock": 7,
+        "image": { "fields": { "file": { "url": "imgs/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "FLORAL TWO PIECE BLUE SUMMER SET",
+        "price": 10.75,
+        "instock": 9,
+        "image": { "fields": { "file": { "url": "imgs/product-12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "SEXY BODYCON BLACK PARTY DRESS",
+        "price": 21.75,
+        "instock": 6,
+        "image": { "fields": { "file": { "url": "imgs/product-13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "TWO PIECE STRIPED YELLOW SHORTS SET",
+        "price": 16.75,
+        "instock": 5,
+        "image": { "fields": { "file": { "url": "imgs/product-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "TWO PIECE STRIPED BLUE SHORTS SET",
+        "price": 16.75,
+        "instock": 3,
+        "image": { "fields": { "file": { "url": "imgs/product-15.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "TWO PIECE FLORAL AUTUMN SHORTS SET",
+        "price": 15.75,
+        "instock": 5,
+        "image": { "fields": { "file": { "url": "imgs/product-16.jpg" } } }
+      }
+    },
+   
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "TRANSPARENT LONG STRAP PARTY BAG",
+        "price": 9.75,
+        "instock": 25,
+        "image": { "fields": { "file": { "url": "imgs/product-19.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "SEXY SNAKE PRINT CROPTOP",
+        "price": 6.75,
+        "instock": 15,
+        "image": { "fields": { "file": { "url": "imgs/product-20.jpg" } } }
+      }
+    }
+  ]
+}
