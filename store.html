@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sleek by Neeks</title>
+        <script src="https://kit.fontawesome.com/f0fcefbded.js" crossorigin="anonymous"></script>
+        <meta name="description" content="This is the description">
+        <link rel="stylesheet" href="index3style.css" />
+        <script src="index3.js" async></script>
+    </head>
+    <body>
+       <nav class="navbar">
+  <div class="navbar-center">
+  <img src="sleek.jpg" height="70px" width="300px " alt="Logo loads here" />
+  <ul>
+    <div style="font-size:30px">
+  <li><a href="index3.html">HOME</a></li>
+  <li><a href="store.html">STORE</a></li>
+</div>
+  </ul>
+  </div>
+
+        <div id="wallet">
+            <h2>
+                WALLET
+            </h2>
+            <input type="number" id="TotalWallet"><br>
+
+            <BUTTON id="walletaddcash" onclick="GetWallet()">ADD CASH TO WALLET</BUTTON>
+            
+<H3> Wallet balance: $<span id="WalletBalance">0</span></H3>
+            
+     </div>
+  </nav>
+        <section class="container content-section">
+            <div class="section-title">
+            <h2 align="center" class="banner-title">OUR PRODUCTS</h2>
+        </div>
+            <h2 class="section-header banner-title">CASUAL</h2>
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">LEOPARD PRINT BIKER SET</span>
+                    <img class="shop-item-image" src="product-4.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$12.99</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">SEXY BIKER SHORTS</span>
+                    <img class="shop-item-image" src="product-1.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$7.99</span>
+                        <button class="btn btn-primary shop-item-button"type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">GOLD HEARTBEAT NECKLACE</span>
+                    <img class="shop-item-image" src="product-2.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$2.99</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">SEXY SHORT PARTY DRES</span>
+                    <img class="shop-item-image" src="product-9.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$19.99</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">FLORAL AUTUMN SHORTS SET</span>
+                    <img class="shop-item-image" src="product-16.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$15.75</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+            </div>
+        </section>
+        <section class="container content-section">
+            <h2 class="section-header banner-title">FORMAL</h2>
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">HOT PINK COCKTAIL DRESS</span>
+                    <img class="shop-item-image" src="product-5.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$29.99</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">SEXY BLUE BODYCON PARTY DRESS</span>
+                    <img class="shop-item-image" src="product-10.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$18.75</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                 <div class="shop-item">
+                    <span class="shop-item-title">TRANSPARENT PARTY BAG</span>
+                    <img class="shop-item-image" src="product-19.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$11.75</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <span class="shop-item-title">SEXY BODYCON BLACK PARTY DRESS</span>
+                    <img class="shop-item-image" src="product-13.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price" style="font-size:25px">$21.75</span>
+                        <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                    </div>
+            </div>
+        </section>
+        <section class="container content-section">
+            <h2 class="section-header">CART</h2>
+            <div class="cart-row">
+                <span class="cart-item cart-header cart-column">ITEM</span>
+                <span class="cart-price cart-header cart-column">PRICE</span>
+                <span class="cart-quantity cart-header cart-column">QUANTITY</span>
+            </div>
+            <div class="cart-items">
+            </div>
+            <div class="cart-total">
+                <strong class="cart-total-title">Total: $</strong>
+                <span class="cart-total-price" style="font-size:25px">0</span>
+            </div>
+            <button class="btn btn-primary btn-purchase" type="button" onclick="purchase()">PURCHASE</button>
+        </section>
+       
+       
+    <h3 align="center" class="banner-title" style="font-size:40px;">THANK YOU FOR SHOPPING WITH US</h3>
+     <div id="showReceipt">
+         
+     </div>
+    </body>
+</html>
